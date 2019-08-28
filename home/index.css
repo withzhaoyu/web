@@ -1,0 +1,12 @@
+.center {
+    text-align: center;
+}
+footer{
+    width:100%;
+    position: fixed;
+    text-align:center;
+    bottom:0;
+}
+.beian{
+    height: 50px;
+}
