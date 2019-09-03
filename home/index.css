@@ -10,3 +10,11 @@ footer{
 .beian{
     height: 50px;
 }
+img.ox_img{
+  width:150px;
+  height:150px;
+}
+body{
+    background-image: url('./bg.jpg');
+    background-size: contain;
+}
